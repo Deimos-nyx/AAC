@@ -31,6 +31,6 @@ base_revision: 9584c6713b324636289d067944a46fd6b49df14b
 
 #
 
-# Files that are not part of the templates will be ignored by default.
+# Files that are not part of the templates will be ignored by default sandesh.
 
 unmanaged_files: - 'lib/main.dart' - 'ios/Runner.xcodeproj/project.pbxproj'
